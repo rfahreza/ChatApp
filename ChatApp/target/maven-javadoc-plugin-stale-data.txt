@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/rafia/Documents/NetBeansProjects/UTS1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/rafia/Documents/NetBeansProjects/UTS1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ChatApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ChatApp 1.0-SNAPSHOT API'
+com.mycompany.chatapp
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\src\main\java = 1729582090331
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\allclasses-index.html = 1729650997878
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\allpackages-index.html = 1729650997885
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\element-list = 1729650997697
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\help-doc.html = 1729650997947
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\index-all.html = 1729650997919
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\index.html = 1729650997933
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\member-search-index.js = 1729650997899
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\module-search-index.js = 1729650997888
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\overview-tree.html = 1729650997842
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\package-search-index.js = 1729650997892
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\search.html = 1729650997925
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\serialized-form.html = 1729650997790
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\tag-search-index.js = 1729650997903
+C:\Users\rafia\Documents\NetBeansProjects\UTS1\target\reports\apidocs\type-search-index.js = 1729650997895
